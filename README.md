@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on things related with Public Key Infrastucture (PKI)
-- 🌱 I’m currently learning Golang programming language and Product Management and architecture.
+- 🌱 I’m currently learning Go programming language and Product Management and architecture.
 - 📫 How to reach me: handra@handracs.info
